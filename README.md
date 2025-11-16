@@ -2,7 +2,13 @@
 
 - 🔭 I’m currently working on: Getting better at contributing to open source, 3d printing and blogging about tech
 - 💬 Ask me about: Anything and Everything!
-- ⚡ Fun fact: I have close friends and family who work in animal rescue, and we have ELEVEN adorable cats that take up a massive amount of our day.
+- ⚡ Fun fact: I have close friends and family who work in animal rescue, and we have TEN adorable cats that take up a massive amount of our day.
+
+I'm around on a few places on the internet, specifically:
+
+- [BlueSky](https://bsky.app/profile/stevenpg.bsky.social)
+- [My Blog](https://stevenpg.com)
+- [My Subtack](https://substack.com/@stevenpg1)
 
 ## Me on Github
 
